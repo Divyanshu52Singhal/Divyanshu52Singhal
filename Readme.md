@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Divyanshu81
+- 👋 Hi, I’m @Divyanshu Kumar Singhal
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning JS and Python Frameworks
 - 📫 Drop me a mail - divyanshu52singhal@gmail.com
